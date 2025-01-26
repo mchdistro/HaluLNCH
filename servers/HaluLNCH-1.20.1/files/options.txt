@@ -1,0 +1,9 @@
+version:3465
+autoJump:false
+realmsNotifications:true
+resourcePacks:["vanilla","mod_resources","file/resource_pack.zip","file/pet_resourcepack.zip","file/EBE_1.20.x_v1.1.zip"]
+lang:ko_kr
+narrator:0
+tutorialStep:none
+skipMultiplayerWarning:true
+onboardAccessibility:false

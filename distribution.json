@@ -571,6 +571,81 @@
             "url": "https://github.com/mchdistro/HaluLNCH/raw/main/servers/HaluLNCH-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
             "MD5": "808ef05d886edaeffaa8751059e607ac"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 277,
+            "url": "https://github.com/mchdistro/HaluLNCH/raw/main/servers/HaluLNCH-1.20.1/files/options.txt",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 40,
+            "url": "https://github.com/mchdistro/HaluLNCH/raw/main/servers/HaluLNCH-1.20.1/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "EBE_1.20.x_v1.1.zip",
+          "name": "EBE_1.20.x_v1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 62318,
+            "url": "https://github.com/mchdistro/HaluLNCH/raw/main/servers/HaluLNCH-1.20.1/files/resourcepacks/EBE_1.20.x_v1.1.zip",
+            "MD5": "58263fb2fa34f848cd1254aa0a67ef22",
+            "path": "resourcepacks/EBE_1.20.x_v1.1.zip"
+          }
+        },
+        {
+          "id": "pet_resourcepack.zip",
+          "name": "pet_resourcepack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 215037,
+            "url": "https://github.com/mchdistro/HaluLNCH/raw/main/servers/HaluLNCH-1.20.1/files/resourcepacks/pet_resourcepack.zip",
+            "MD5": "1195cbcaf78ef8f200b70e75e408b83a",
+            "path": "resourcepacks/pet_resourcepack.zip"
+          }
+        },
+        {
+          "id": "resource_pack.zip",
+          "name": "resource_pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 559724,
+            "url": "https://github.com/mchdistro/HaluLNCH/raw/main/servers/HaluLNCH-1.20.1/files/resourcepacks/resource_pack.zip",
+            "MD5": "e6375b66ae83078fe8bcb513f77100c7",
+            "path": "resourcepacks/resource_pack.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://github.com/mchdistro/HaluLNCH/raw/main/servers/HaluLNCH-1.20.1/files/servers.dat",
+            "MD5": "ec4cb8bf0f81d6c5926d59ef0f43ef16",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.0.zip",
+          "name": "ComplementaryUnbound_r5.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 402262,
+            "url": "https://github.com/mchdistro/HaluLNCH/raw/main/servers/HaluLNCH-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.0.zip",
+            "MD5": "975991ee758f3b3d1ef17b0d295b5b8c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.0.zip"
+          }
         }
       ]
     }
